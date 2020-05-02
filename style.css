@@ -44,9 +44,11 @@ body {
 	text-align: center;
 }
 
-#loading{
-	display: none;
+#loading {
+  display: none;
 }
+
+
 
 .file-upload-input {
 	position: absolute;
@@ -350,10 +352,16 @@ color: #f6f7fa;
 	font-size: 1.2rem;
 }
 	
-	
+.text-center{
+	font-size: 1.2rem;
+}
 
 
-
+.copyright {
+	font-size: 1.0rem;
+	margin-bottom: 0;
+	text-align: center;
+}
 
 
 
