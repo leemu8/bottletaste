@@ -171,7 +171,7 @@ body {
 
 
 .section {
-	margin-top: 100px;
+	margin-top: 50px;
 }
 
 .title {
@@ -368,5 +368,12 @@ color: #f6f7fa;
 	text-align: center;
 }
 
-
+.subtitle-2{
+	font-size: 1.3rem;
+	color: #868686;
+	text-align: center;
+	padding: 1rem 0rem 0px 20rem;
+	line-height: 1.7;
+	text-decoration: underline;
+}
 
