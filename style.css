@@ -117,7 +117,7 @@ body {
 
 
 .remove-image {
-	width: 80%;
+	border-radius: 40px;
 	margin: 0 auto;
 	color: #fff;
 	background: #e46675;
@@ -306,12 +306,12 @@ color: #f6f7fa;
 	font-size: 2.0rem;
 }
 .ent-explain{
-	font-size: 1.4rem;
+	font-size: 1.5rem;
 	color: #ff9b51;
 	font-weight: bold;
 }
 .ent-celeb{
-	font-size: 1.3rem;
+	font-size: 1.4rem;
 }
 
 .BIG HIT-ent-title{
